@@ -1,0 +1,13 @@
+[{
+    "timestamp_created": "1692197486",
+    "analysis_type": "sentiment",
+    "status": "waiting",
+    "load_config": {
+        "connection_type": "file",
+        "file_path": "./temp/tweets.csv"
+    },
+    "save_config": {
+        "connection_type": "file",
+        "file_path": "./temp/tweets_sentiment.csv"
+    }
+}]
